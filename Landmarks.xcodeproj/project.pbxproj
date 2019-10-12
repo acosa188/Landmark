@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F93279DC23521C6100D7B6C5 /* moraine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F93279DB23521C6100D7B6C5 /* moraine.jpg */; };
 		F964A2FC234FE6F400E2858E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F964A2FB234FE6F400E2858E /* AppDelegate.swift */; };
 		F964A2FE234FE6F400E2858E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F964A2FD234FE6F400E2858E /* SceneDelegate.swift */; };
 		F964A300234FE6F400E2858E /* LandmarkDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = F964A2FF234FE6F400E2858E /* LandmarkDetails.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F93279DB23521C6100D7B6C5 /* moraine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moraine.jpg; sourceTree = "<group>"; };
 		F964A2F8234FE6F400E2858E /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F964A2FB234FE6F400E2858E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F964A2FD234FE6F400E2858E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 		F964A312234FE97C00E2858E /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				F93279DB23521C6100D7B6C5 /* moraine.jpg */,
 				F964A340234FFC9600E2858E /* landmarkData.json */,
 				F964A329234FF9B300E2858E /* charleyrivers.jpg */,
 				F964A328234FF9B300E2858E /* chilkoottrail.jpg */,
@@ -224,6 +227,7 @@
 				F964A33A234FF9B300E2858E /* lakemcdonald.jpg in Resources */,
 				F964A33B234FF9B300E2858E /* twinlake.jpg in Resources */,
 				F964A336234FF9B300E2858E /* silversalmoncreek.jpg in Resources */,
+				F93279DC23521C6100D7B6C5 /* moraine.jpg in Resources */,
 				F964A337234FF9B300E2858E /* chincoteague.jpg in Resources */,
 				F964A338234FF9B300E2858E /* hiddenlake.jpg in Resources */,
 				F964A341234FFC9600E2858E /* landmarkData.json in Resources */,
