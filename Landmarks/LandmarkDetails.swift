@@ -42,6 +42,7 @@ struct LandmarkDetails: View {
                                 .foregroundColor(Color.gray)
                         }
                     }
+                    
                 }
                 
                 HStack {
